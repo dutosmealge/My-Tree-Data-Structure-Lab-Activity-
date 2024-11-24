@@ -1,6 +1,5 @@
 Full Name: Algemarie R. Dutosme 
 Year &. Section: BSIT 2TAB
-GitHub username: dutosmealge
 
 What it is:
 -	The EducationSystemTree Class: This class is the core of the program. It uses a tree data structure to model the education system, with levels like “National Education System,” “Primary Education,” “Secondary Education,” etc.
